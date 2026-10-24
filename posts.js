@@ -20,7 +20,7 @@ window.POSTS = [
     ],
     "photos": [
       {
-        "src": "fotos/2026-10-24-1.jpg",
+        "src": "2026-10-24-1.jpg",
         "alt": "Sentada na cama, com um balão de coração e um buquê de lírios; ao fundo, balões vermelhos formam a palavra amo."
       }
     ]
